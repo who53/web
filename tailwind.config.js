@@ -6,11 +6,7 @@ export default {
 	"./pages/**/*.html",
   ],
   theme: {
-    extend: {
-      fontFamily: {
-        sans: ['Poppins', 'sans-serif'],
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
