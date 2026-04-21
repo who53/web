@@ -11,10 +11,10 @@
   "devDependencies": {
     "autoprefixer": "^10.5.0",
     "postcss": "^8.5.10",
-    "tailwindcss": "^4.2.2",
-    "vite": "^8.0.8"
+    "tailwindcss": "^4.2.3",
+    "vite": "^8.0.9"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "^4.2.2"
+    "@tailwindcss/postcss": "^4.2.3"
   }
 }
